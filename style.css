@@ -1,0 +1,53 @@
+.failure-icon, .error {
+    color: red;
+}
+.success-icon {
+    color: green;
+}
+.error {
+    font-size: 14.5px;
+    margin-top: 5px;
+}
+.success-icon, .failure-icon {
+    right: 0;
+    opacity: 0;
+}
+.account button {
+    border: none;
+    color: #4b82fa;
+}
+button{ 
+    width: 60px;
+    height: 30px;
+    border: 1px;
+    border-radius: 2px;
+    color: white;
+    background: rgb(30, 160, 231);
+    border-color: rgb(30, 160, 231);
+    margin-top: 30px;
+    
+}
+form{
+    background-color: rgb(234, 234, 234);
+    border: 1px solid ;
+    border-color: rgb(227, 227, 227);
+    border-radius: 5px;
+    position: relative;
+    padding: 25px;
+    margin: 30px;
+    width: 350px;
+    left: 320px;
+}
+input{
+    border-radius: 4px;
+    border: 1.5px solid rgb(216, 216, 216);
+    width: 300px;
+    height: 30px;
+    padding: 13px;
+}
+
+a{
+    position: relative;
+    left: 642px;
+    top: 30px;
+}
